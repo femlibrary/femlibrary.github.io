@@ -138,6 +138,21 @@ footer {
   font-size: 1rem;
   padding-bottom: 0.3rem; }
 
+.main-books .books {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+.main-books .books > li {
+  margin: 2rem 0 0.5rem; }
+.main-books .books > li:first-child {
+  margin-top: 0; }
+.main-books h3 {
+  font-weight: 200;
+  font-size: 1rem;
+  padding-bottom: 0.3rem; }
+.main-books .description {
+  margin: 1rem 0; }
+
 .main-news .buttons {
   padding: 2rem 0;
   text-align: center; }
