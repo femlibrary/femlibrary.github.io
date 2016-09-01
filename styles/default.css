@@ -125,14 +125,18 @@ footer {
   border-radius: 4px;
   border-right: 1px solid #FDD; }
 
+.main-index .articles,
 .main-categories .articles {
-  margin: 0;
+  margin: 0 0 3rem 0;
   padding: 0;
   list-style: none; }
+.main-index .articles > li,
 .main-categories .articles > li {
   margin: 2rem 0 0.5rem; }
+.main-index .articles > li:first-child,
 .main-categories .articles > li:first-child {
   margin-top: 0; }
+.main-index h3,
 .main-categories h3 {
   font-weight: 200;
   font-size: 1rem;
